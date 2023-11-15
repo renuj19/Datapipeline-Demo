@@ -1,0 +1,9 @@
+{
+	"name": "azuredatafactory-demo100",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "320304c1-cebd-4d98-a483-c12c261306dc",
+		"tenantId": "42268695-f2a5-4175-8f16-386de75b68e0"
+	}
+}
